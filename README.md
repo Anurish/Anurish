@@ -21,31 +21,27 @@ My current focus spans **LLM applications, AI agents, React/Next.js applications
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 ### Languages
-
-`Python` `JavaScript` `TypeScript` `PHP`
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,php&theme=dark)](https://skillicons.dev)
 
 ### Frontend
-
-`React.js` `Next.js` `HTML` `CSS`
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark)](https://skillicons.dev)
 
 ### Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,php,laravel,fastapi&theme=dark)](https://skillicons.dev)
 
-`Node.js` `Express.js` `PHP` `REST APIs`
-
-### AI / LLM
-
-`LLMs` `Qwen` `LangGraph` `RAG` `AI Agents`
+### AI / LLM Engineering
+[![AI Engineering](https://skillicons.dev/icons?i=python,pytorch&theme=dark)](https://skillicons.dev)
 
 ### Databases & Infrastructure
-
-`PostgreSQL` `MySQL` `Milvus` `Docker`
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github&theme=dark)](https://skillicons.dev)
 
 ### Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,github,linux&theme=dark)](https://skillicons.dev)
 
-`Git` `GitHub` `Streamlit` `FastAPI`
 
 ---
 
